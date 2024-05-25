@@ -23,7 +23,8 @@ IG Command
 #### RUN SCRIPT
 ```bash
  cd Karma-x
- python run.py
+ git pull
+ python karmapriv.py
 
 ```
 #### RESULTS IG FB:
